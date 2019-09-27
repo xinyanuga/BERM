@@ -1,3 +1,17 @@
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 35px;
+  }
+}
+
+.pagination {
+  margin-bottom: 15px;
+}
+
 <!-- Page Content -->
     <div class="container">
 
